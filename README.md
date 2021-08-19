@@ -1,1 +1,1 @@
-# rust_2d_games
+# 2d simple games
