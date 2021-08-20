@@ -1,5 +1,5 @@
 [package]
-name = "hello_bterm"
+name = "flappy_ascii"
 version = "0.1.0"
 edition = "2018"
 
