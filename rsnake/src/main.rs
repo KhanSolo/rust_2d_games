@@ -1,6 +1,7 @@
 use piston_window::*;
 
 mod draw;
+mod snake;
 
 fn main() {
     let mut window: PistonWindow =
