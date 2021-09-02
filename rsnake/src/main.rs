@@ -1,6 +1,6 @@
-extern crate piston_window;
-
 use piston_window::*;
+
+mod draw;
 
 fn main() {
     let mut window: PistonWindow =
